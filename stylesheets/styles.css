@@ -217,7 +217,7 @@ td {
 header {
 background: url(../images/8.jpg)no-repeat center;	
 background-color:blue;
-text-shadow:white;
+text-shadow:blue;
   width:200px;
   float:left;
   position:fixed;
