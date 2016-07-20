@@ -169,7 +169,7 @@ p img {
 
 code, pre {
 	font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
-  color:##000;
+  color:color:#00ffbf;;
   font-size:14px;
 }
 
@@ -202,7 +202,7 @@ th {
 	font-weight: normal;
   padding: 10px;
   background: #232323;
-  color: #000;
+  color:color:#00ffbf;;
  }
 
 td {
@@ -244,7 +244,8 @@ p.header {
 
 h1.header {
 	font-family: Arvo, sans-serif;
-	font-size: 30px;
+	color:#00ffbf;
+	font-size: 30pxcolor;
 	font-weight: 300;
 	line-height: 1.3em;
 	border-bottom: none;
@@ -253,7 +254,7 @@ h1.header {
 
 
 h1.header, a.header, a.name, header a{
-	color: #fff;
+	color: ##00ffbf;
 }
 
 a.header {
