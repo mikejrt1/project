@@ -31,7 +31,7 @@ body {
 color: ##00ffbf;
 background-image:url(../images/9.jpg);	
 background-repeat:no-repeat;
-background-size:cover all;
+background-size:cover;
 	font-size: 14px;
 	background-color: #666;
 	margin: 0;
