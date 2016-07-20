@@ -168,7 +168,7 @@ p img {
 
 code, pre {
 	font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
-  color:#000;
+  color:##00ffbf;
   font-size:14px;
 }
 
@@ -201,7 +201,7 @@ th {
 	font-weight: normal;
   padding: 10px;
   background: #232323;
-  color: #FDFEFB;
+  color: #00ffbf;
  }
 
 td {
