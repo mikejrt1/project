@@ -121,7 +121,7 @@ blockquote {
 }
 
 dl, dt, dd, dl p {
-	font-color: ##00ffbf;
+	color:#00ffbf;
 }
 
 dl dt {
@@ -169,7 +169,7 @@ p img {
 
 code, pre {
 	font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
-  color:color:#00ffbf;;
+  color:#00ffbf;
   font-size:14px;
 }
 
@@ -202,7 +202,7 @@ th {
 	font-weight: normal;
   padding: 10px;
   background: #232323;
-  color:color:#00ffbf;;
+  color:color:#00ffbf;
  }
 
 td {
@@ -222,7 +222,7 @@ td {
 header {
 background: url(../images/9.jpg)no-repeat center;	
 background-color:blue;
-text-shadow:blue;
+text-shadow:#380ede;
   width:200px;
   float:left;
   position:fixed;
@@ -254,7 +254,7 @@ h1.header {
 
 
 h1.header, a.header, a.name, header a{
-	color: ##00ffbf;
+	color:#00ffbf;
 }
 
 a.header {
@@ -318,7 +318,7 @@ a.github {
 }
 
 a.buttons:hover {
-	color: #380ede;
+	color: #380ede
 	text-decoration: none;
 }
 
@@ -425,6 +425,6 @@ footer {
   body {
     padding:0.4in;
     font-size:12pt;
-    color:#380ede;
+    color: ##00ffbf;
   }
 }
