@@ -28,11 +28,11 @@ time, mark, audio, video {
 body {
   padding:10px 50px 0 0;
   font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
+color: ##00ffbf;
 background-image:url(../images/9.jpg);	
 background-repeat:no-repeat;
 background-size:cover all;
 	font-size: 14px;
-	color: ##00ffbf;
 	background-color: #666;
 	margin: 0;
 	line-height: 1.8em;
@@ -168,7 +168,7 @@ p img {
 
 code, pre {
 	font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
-  color:##00ffbf;
+  color:##000;
   font-size:14px;
 }
 
@@ -201,7 +201,7 @@ th {
 	font-weight: normal;
   padding: 10px;
   background: #232323;
-  color: #00ffbf;
+  color: #000;
  }
 
 td {
